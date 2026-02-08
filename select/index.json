@@ -1,49 +1,9 @@
 {
   "version": 1,
-  "base_track": "ぼかろころしあむ - Vocaloid Colosseum (feat. Kagamine Rin)",
-  "base_artist": "DIVELA",
-  "createdAt": "2026-01-13T15:52:20.184230Z",
+  "base_track": "ぼかろころしあむ（feat. Kagamine Rin）",
+  "base_artist": "ディヴェラ",
+  "createdAt": "2026-02-08T13:36:13.435132Z",
   "candidates": [
-    {
-      "id": "lrclib_1",
-      "source": "lrclib",
-      "title": "ぼかろころしあむ",
-      "artist": "SymaG",
-      "has_synced": true,
-      "path": "select/01_ぼかろころしあむ_SymaG.lrc"
-    },
-    {
-      "id": "lrclib_2",
-      "source": "lrclib",
-      "title": "ぼかろころしあむ",
-      "artist": "DIVELA",
-      "has_synced": true,
-      "path": "select/02_ぼかろころしあむ_DIVELA.lrc"
-    },
-    {
-      "id": "lrclib_3",
-      "source": "lrclib",
-      "title": "ぼかろころしあむ - Vocaloid Colosseum (feat. Kagamine Rin)",
-      "artist": "DIVELA",
-      "has_synced": true,
-      "path": "select/03_ぼかろころしあむ_-_Vocaloid_Colosseum_(feat._Kagamine_Rin)_DIVELA.lrc"
-    },
-    {
-      "id": "lrclib_4",
-      "source": "lrclib",
-      "title": "ぼかろころしあむ (feat. 鏡音リン)",
-      "artist": "DIVELA",
-      "has_synced": true,
-      "path": "select/04_ぼかろころしあむ_(feat._鏡音リン)_DIVELA.lrc"
-    },
-    {
-      "id": "lrclib_5",
-      "source": "lrclib",
-      "title": "ぼかろころしあむ",
-      "artist": "島爺",
-      "has_synced": true,
-      "path": "select/05_ぼかろころしあむ_島爺.lrc"
-    },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
